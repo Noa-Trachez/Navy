@@ -1,0 +1,7 @@
+*.o
+a.out
+libmy.a
+.vscode/
+navy
+pos1
+pos2
